@@ -1,0 +1,45 @@
+{
+  "admins": [
+    {
+      "id": "1",
+      "name": "fady_faheem",
+      "password": "123456",
+      "email": "Cleverfady@gmail.com",
+      "phone": "01068971761",
+      "country": "egypt",
+      "gender": "male"
+    }
+  ],
+  "users": [
+    {
+      "userName": "fa",
+      "email": "Cleverfady@gmail.com",
+      "select": "egypt",
+      "id": "a655"
+    },
+    {
+      "userName": "minaa",
+      "email": "Cleverfady@gmail.com",
+      "select": "england",
+      "id": "3901"
+    },
+    {
+      "id": "c6db",
+      "userName": "fady",
+      "email": "fdgdg@fdsg",
+      "select": "egypt"
+    },
+    {
+      "id": "3a94",
+      "userName": "mina",
+      "email": "Cleverfady@gmail.com",
+      "select": "england"
+    },
+    {
+      "id": "3cd9",
+      "userName": "fady",
+      "email": "Cleverfady@gmail.com",
+      "select": "england"
+    }
+  ]
+}
